@@ -12,6 +12,8 @@ QwenPrompt Lab is a Python and Streamlit application that demonstrates different
 - Adjustable temperature and maximum tokens
 - AI-generated responses using a local Qwen model
 
+## Application link: https://qwenprompt-lab-gmgvfgdhjl5dhnk7qr2drg.streamlit.app/
+
 ## Application Preview
 <img width="1355" height="711" alt="image" src="https://github.com/user-attachments/assets/483969b2-95b6-4d54-9131-0bdc8968bf91" />
 <img width="1337" height="715" alt="image" src="https://github.com/user-attachments/assets/e53b64d2-f652-416a-8b0a-9e58203c5bdc" />
